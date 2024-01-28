@@ -37,14 +37,14 @@
 				"title": "Maine Made Relief",
 				"description": "Create and implement designs to client specifications. Created and implemented E-commerce functionality to accept payments, handle billing, and automate shipping. Used custom css rules for adjusting layout and images for responsive design.",
 				"url": "http://www.example.com/project2",
-        "github": null,
+        "github": "",
 				"image": "/placeholder-700x350.png"
 			},
       {
 				"title": "Brooklin Boar Yard",
 				"description": "Collaborated with many parties to create desired layout and archival functionality. Designed and formatted company history and archive timeline. Designed and created brockerage page. Optimized Seacrh engine Optimization increasing monthly webtraffic by 200%.",
 				"url": "http://www.example.com/project3",
-        "github": null,
+        "github": "",
 				"image": "/placeholder-700x350.png"
 			}
     ]
