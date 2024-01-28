@@ -14,8 +14,8 @@
 		}
 	],
   "hero": {
-    "name": "Your Name",
-    "subtitle": "I'm the Unknown Developer."
+    "name": "Noah",
+    "subtitle": "Full Stack Software Engineer."
   },
   "about": {
     "title": "About me",
@@ -27,24 +27,24 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Project 1",
+        "title": "Spread Picker",
         "description": "Describe the project being very specific, you can use the Twitter standard: no more than 280 characters: complement the information: the skills learned or reinforced in its realization and how you faced it, prove to be proactive in the search for solutions.",
         "url": "http://www.example.com/project1",
-        "github": "http://www.example.com/github",
+        "github": "https://github.com/noah-milliken/spread-picker",
         "image": "/placeholder-700x350.png"
       },
       {
-				"title": "Project 2",
-				"description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
+				"title": "Maine Made Relief",
+				"description": "Create and implement designs to client specifications. Created and implemented E-commerce functionality to accept payments, handle billing, and automate shipping. Used custom css rules for adjusting layout and images for responsive design.",
 				"url": "http://www.example.com/project2",
-        "github": "http://www.example.com/github",
+        "github": null,
 				"image": "/placeholder-700x350.png"
 			},
       {
-				"title": "Project 3",
-				"description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
+				"title": "Brooklin Boar Yard",
+				"description": "Collaborated with many parties to create desired layout and archival functionality. Designed and formatted company history and archive timeline. Designed and created brockerage page. Optimized Seacrh engine Optimization increasing monthly webtraffic by 200%.",
 				"url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
+        "github": null,
 				"image": "/placeholder-700x350.png"
 			}
     ]
@@ -55,8 +55,8 @@
     "formId": "your-form-id"
   },
   "footer": {
-		"linkedin": "",
-		"twitter": "",
-		"github": ""
+		"linkedin": "www.linkedin.com/in/noahmilliken",
+		"twitter": "https://twitter.com/noahmilliken",
+		"github": "https://github.com/noah-milliken"
 	}
 }

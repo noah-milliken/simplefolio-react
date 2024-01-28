@@ -20,7 +20,7 @@ const Footer = () => {
           <i className="devicon-github-original"></i>
         </a>
       </div>
-      <span className="text-sm text-center text-neutral-600">
+      <span hidden className="text-sm text-center text-neutral-600">
         © {getYear()} - Template developed by <a href="https://www.dylanarveson.com">Dylan Arveson</a>
       </span>
     </div>
