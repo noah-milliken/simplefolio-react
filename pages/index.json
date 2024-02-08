@@ -27,32 +27,32 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Spread Picker",
-        "description": "Describe the project being very specific, you can use the Twitter standard: no more than 280 characters: complement the information: the skills learned or reinforced in its realization and how you faced it, prove to be proactive in the search for solutions.",
-        "url": "http://www.example.com/project1",
+        "title": "Pick-Kit",
+        "description": "Pick-Kit is a full stack web app to track and keep score of football wagers with other users and separate leagues. Used React.js, Chakra UI, Node.js and MySQL. Includes user authentication and persists data across devices.",
+        "url": "https://spread-picker-app.fly.dev/",
         "github": "https://github.com/noah-milliken/spread-picker",
-        "image": "/placeholder-700x350.png"
+        "image": "/pick-kit.png"
       },
       {
 				"title": "Maine Made Relief",
 				"description": "Create and implement designs to client specifications. Created and implemented E-commerce functionality to accept payments, handle billing, and automate shipping. Used custom css rules for adjusting layout and images for responsive design.",
-				"url": "http://www.example.com/project2",
-        "github": "",
-				"image": "/placeholder-700x350.png"
+				"url": "https://www.obrienhouse.org/",
+        "github": null,
+				"image": "/OBrien_House.png"
 			},
       {
 				"title": "Brooklin Boar Yard",
 				"description": "Collaborated with many parties to create desired layout and archival functionality. Designed and formatted company history and archive timeline. Designed and created brockerage page. Optimized Seacrh engine Optimization increasing monthly webtraffic by 200%.",
-				"url": "http://www.example.com/project3",
-        "github": "",
-				"image": "/placeholder-700x350.png"
+				"url": "https://www.brooklinboatyard.com/",
+        "github": null,
+				"image": "/bby_hero.png"
 			}
     ]
   },
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "your-form-id"
+    "formId": "xkndjybn"
   },
   "footer": {
 		"linkedin": "www.linkedin.com/in/noahmilliken",
